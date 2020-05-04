@@ -1,3 +1,3 @@
 # firstProject
-first class project
-Firat Class Project
+First class project.
+landing page created for portfolio.
